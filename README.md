@@ -27,9 +27,6 @@
 ![Followers](https://img.shields.io/github/followers/fabiangold?style=flat-square&color=00A9E0&logo=github)
 ![Profile Views](https://komarev.com/ghpvc/?username=fabiangold&color=00A9E0&style=flat-square&label=Views)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabiangold&show_icons=true&bg_color=0d1117&title_color=00A9E0&text_color=c9d1d9&icon_color=00A9E0&border_color=30363d&border_radius=10)](https://github.com/fabiangold)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiangold&layout=compact&bg_color=0d1117&title_color=00A9E0&text_color=c9d1d9&border_color=30363d&border_radius=10)](https://github.com/fabiangold)
-
 [![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### 📌 Pinned Repositories
