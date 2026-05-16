@@ -32,15 +32,20 @@
 
 ### 📌 Pinned Repositories
 
-<a href="https://github.com/fabiangold/copilot-key-oracle">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiangold&repo=copilot-key-oracle&bg_color=0d1117&title_color=00A9E0&text_color=c9d1d9&icon_color=00A9E0&border_color=30363d&border_radius=10" />
-</a>
-<a href="https://github.com/fabiangold/IPTV-FG">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiangold&repo=IPTV-FG&bg_color=0d1117&title_color=00A9E0&text_color=c9d1d9&icon_color=00A9E0&border_color=30363d&border_radius=10" />
-</a>
-<a href="https://github.com/fabiangold/FG-Dist_Pentool">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=fabiangold&repo=FG-Dist_Pentool&bg_color=0d1117&title_color=00A9E0&text_color=c9d1d9&icon_color=00A9E0&border_color=30363d&border_radius=10" />
-</a>
+[![Shell](https://img.shields.io/badge/Shell-101010?style=flat-square&logo=gnu-bash&logoColor=4EAA25)](https://github.com/fabiangold/copilot-key-oracle)
+[![Stars](https://img.shields.io/github/stars/fabiangold/copilot-key-oracle?style=flat-square&color=00A9E0)](https://github.com/fabiangold/copilot-key-oracle)
+**» [copilot-key-oracle](https://github.com/fabiangold/copilot-key-oracle)**
+Dell Copilot-Key auf Linux beliebig belegen
+
+[![C#](https://img.shields.io/badge/C%23-101010?style=flat-square&logo=csharp&logoColor=239120)](https://github.com/fabiangold/IPTV-FG)
+[![Stars](https://img.shields.io/github/stars/fabiangold/IPTV-FG?style=flat-square&color=00A9E0)](https://github.com/fabiangold/IPTV-FG)
+**» [IPTV-FG](https://github.com/fabiangold/IPTV-FG)**
+Kostenloser IPTV-Player für Windows
+
+[![Python](https://img.shields.io/badge/Python-101010?style=flat-square&logo=python&logoColor=3776AB)](https://github.com/fabiangold/FG-Dist_Pentool)
+[![Stars](https://img.shields.io/github/stars/fabiangold/FG-Dist_Pentool?style=flat-square&color=00A9E0)](https://github.com/fabiangold/FG-Dist_Pentool)
+**» [FG-Dist_Pentool](https://github.com/fabiangold/FG-Dist_Pentool)**
+Netzwerk-Pentesting-Tool (ADB, DNS, Network)
 
 ### 📬 Contact
 
